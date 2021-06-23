@@ -1,0 +1,132 @@
+Marcador
+22927298
+Negro
+20
+1500
+1000
+ Cartulina
+500237962
+ 1/8
+10 
+800 
+ 500
+ Silicona 
+607511372
+ liquida
+ 30
+ 2500
+ 1800
+ Silicona
+575942822
+ Barra
+ 100
+ 500
+ 300
+ Lapiz
+447131141
+2B 
+ 100
+ 1000
+ 500
+ Cinta
+104467446
+ Enmascarar
+ 50
+ 2200
+1700 
+ Cinta
+381714710
+Color Naranja
+ 45
+ 1200
+ 800
+ Borrador
+490212882
+ Nata
+ 20
+ 900
+400 
+ Resmas
+249626982
+ Oficio
+ 30
+12000 
+ 9500
+ Resmas
+122254285
+ Carta
+ 30
+ 11000
+ 9000
+ Block
+561184200
+ Oficio cuadriculado
+ 60
+ 4500
+ 4000
+Block 
+266771471
+ Carta cuadriculado
+ 60
+4000 
+ 3500
+Cuaderno 
+929706076
+ Cuadriculado Argollago
+ 50
+ 15000
+ 11000
+ Cuaderno
+496969509
+ Rayado Argollado
+ 50
+ 15500
+ 11500
+ Esfero
+154064057
+ Rojo Paper Mate Kilometrico
+ 150
+ 800
+ 500
+ Corrector
+862478339
+ Pelikan
+ 25
+ 8500
+ 7500
+ Sharpie
+647052079
+ Negro
+ 60
+ 3000
+ 2000
+ Pincel
+859405591
+ Flat
+ 50
+5000 
+ 3800
+
+
+
+
+
+
+Esfero
+569172757
+Azul
+60
+1200
+800
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
