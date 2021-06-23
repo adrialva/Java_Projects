@@ -1,0 +1,7 @@
+null   0    
+null   0    
+null   0    
+saul   236    
+2365   2365    
+2   2    
+Hola   236    25
